@@ -1,0 +1,12 @@
+# Base de datos SQLite (se regenera sola al arrancar el servidor)
+tareas.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Windows
+desktop.ini
+Thumbs.db
